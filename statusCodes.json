@@ -1,43 +1,43 @@
 {
     "DevStatusCode": [
         {
-            "Code": "0",
+            "Code": "5000",
             "Title": "Invalid Username",
             "Description": "Invalid Username",
             "Message": "Invalid Username"
         },
         {
-            "Code": "1",
+            "Code": "5001",
             "Title": "Invalid Password",
             "Description": "Invalid Password",
             "Message": "Invalid Password"
         },
         {
-            "Code": "2",
+            "Code": "5002",
             "Title": "Required Fields",
             "Description": "Unable to input certain fields",
             "Message": "All fields are required"
         },
         {
-            "Code": "3",
+            "Code": "5003",
             "Title": "Invalid Email",
             "Description": "Invalid Email",
             "Message": "Invalid Email"
         },
         {
-            "Code": "4",
+            "Code": "5004",
             "Title": "Confirmed",
             "Description":"Confirmed pending data",
             "Message":"Confirmed"
         },
         {
-            "Code": "5",
+            "Code": "5005",
             "Title": "Pending",
-            "Description": "Approved data but still waiting to be confirmed",
+            "Description": "data that are still waiting to be confirmed",
             "Message": "Pending"
         },
         {
-            "Code": "6",
+            "Code": "5006",
             "Title": "Cancel",
             "Description": "Cancel data",
             "Message": "Cancelled"
@@ -50,7 +50,7 @@
             "Message": "Loading"
         },
         {
-            
+
             "Code": "200",
             "Title": "OK",
             "Description": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action.",
