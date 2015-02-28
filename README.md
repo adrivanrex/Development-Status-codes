@@ -5,8 +5,8 @@ Customized status codes primarily used for WebApplication.
 
 # Custom Status Codes
 
-Custom Status Codes starts at code 5000
-and you are free to add more status code
+Custom Status Codes starts at code 5000.
+Will be adding more customized status codes.
 
 # HTTP Status Codes
 
